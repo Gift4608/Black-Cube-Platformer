@@ -541,4 +541,4 @@ while run:
         if event.type == pygame.FINGERDOWN:
             fingers[event.finger_id] = (event.x * screen_w, event.y * screen_h)
         if event.type == pygame.FINGERUP:
-            fingers.pop(event.finger_id, None)rs.pop(event.finger_id, None)
+            fingers.pop(event.finger_id, None)
