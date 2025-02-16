@@ -1,8 +1,8 @@
 # Black Cube Platformer
-
+##
 ## Description :
-### Simple game about black cube
-
+## Simple game about black cube
+##
 ## Authors :
 ## Design - Roman Toniuk
 ## Level design - Roman Toniuk
